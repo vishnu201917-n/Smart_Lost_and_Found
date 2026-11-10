@@ -2,8 +2,6 @@
 
 A web-based Smart Lost and Found application developed as a **DBMS Level 3 project**. The system helps students report lost and found belongings, discover possible matches, submit ownership claims and receive notifications. Administrators can review claims, investigate reported listings and manage item collection.
 
-**GitHub Repository:** https://github.com/vishnu201917-n/Smart_Lost_and_Found
-
 ---
 
 ## 1. Project Overview
@@ -376,11 +374,7 @@ Note: A successful production build verifies compilation and route generation. L
 
 The project is maintained using Git and GitHub.
 
-Repository:
-
-https://github.com/vishnu201917-n/Smart_Lost_and_Found
-
-The team used separate feature branches and pull requests to collaborate.
+We used separate feature branches and pull requests to collaborate.
 
 ### Main Collaboration Branches
 
@@ -420,5 +414,3 @@ Possible future enhancements include:
 **Databases:** MySQL and MongoDB  
 **Programming Language:** JavaScript  
 **Version Control:** Git and GitHub
-
-**Repository:** https://github.com/vishnu201917-n/Smart_Lost_and_Found
