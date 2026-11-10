@@ -295,7 +295,5 @@ Possible future enhancements include:
 ## 16. Project Information
 
 **Project:** Smart Lost and Found System  
-**Course:** Database Management Systems — Level 3 Project  
-
-**Repository:** https://github.com/YOUR-USERNAME/smart-lost-and-found
+**Course:** Database Management Systems — Level 3 Project 
 
