@@ -2,6 +2,11 @@
 
 A web-based Smart Lost and Found application developed as a **DBMS Level 3 project**. The system helps students report lost and found belongings, discover possible matches, submit ownership claims and receive notifications. Administrators can review claims, investigate reported listings and manage item collection.
 
+# Team Details 
+| Team Member | SRN |
+|---|---|
+| Vishnu Narayanan Ajay | PES2UG24CS594 | 
+| Vishnu S.R | PES2UG24CS595 | 
 ---
 
 ## 1. Project Overview
